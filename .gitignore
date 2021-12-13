@@ -1,0 +1,6 @@
+# Idea - Goland ignore file
+.idea
+*.imp
+
+# Output files
+output/
